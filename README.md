@@ -5,8 +5,8 @@ Web Developer and AI inspired dev
 I've been coding for the past 4 years and I started with basic python scripting but gradually developed interest in full-stack programming with familiarity in five languages and their frameworks, that is Ruby, Go-lang, Java-script, Python and Php. Write now I'm on a path to joining one of the most trending skill-set, AI development and Machine Learning.*
 - 🌍  I'm based in Mombasa*
 - ✉️ You can contact me at [geniusokwemba53@gmail.com](mailto:geniusokwemba53@gmail.com)*
-- 🧠  I'm learning Fast-Api and Tailwind*
-- 🤝  I'm open to collaborating on Machine Learning and Django projects
+- 🧠  I'm learning docker containerization and laravel
+- 🤝  I'm open to collaborating on all sorts of projects.
 
 ### Skills
 
