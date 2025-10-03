@@ -12,7 +12,7 @@ Currently, I’m diving into the exciting world of Artificial Intelligence and M
 -    ✉️ Reach me at: geniusokwemba53@gmail.com
 -    🤝 Open to collaborating on Machine Learning and Django projects
 
-![Salvatore-droid's Stats](https://github-readme-stats.vercel.app/api?username=Salvatore-droid&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![Salvatore-droid's Stats](https://github-readme-stats.vercel.app/api?username=Salvatore-droid&theme=blue-green&show_icons=true&hide_border=true&count_private=false)
 
 ![Salvatore-droid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salvatore-droid&theme=blue-green&hide_border=false)
 
