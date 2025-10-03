@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Genius Etole
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Genius Etole   ![Salvatore-droid's Stats](https://github-readme-stats.vercel.app/api?username=Salvatore-droid&theme=blue-green&show_icons=true&hide_border=true&count_private=false) 
 ====================================================================================================================================
 
  Web Developer and AI Enthusiast with over 4 years of experience in software development.
@@ -12,7 +12,7 @@ Currently, I’m diving into the exciting world of Artificial Intelligence and M
 -    ✉️ Reach me at: geniusokwemba53@gmail.com
 -    🤝 Open to collaborating on Machine Learning and Django projects
 
-![Salvatore-droid's Stats](https://github-readme-stats.vercel.app/api?username=Salvatore-droid&theme=blue-green&show_icons=true&hide_border=true&count_private=false)    ![Salvatore-droid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salvatore-droid&theme=blue-green&hide_border=true)
+   ![Salvatore-droid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salvatore-droid&theme=blue-green&hide_border=true)
 
 
 
