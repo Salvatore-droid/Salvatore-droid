@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  Web Developer and AI Enthusiast with over 4 years of experience in software development.
 ---------------------------------
 ![Salvatore-droid's Stats](https://github-readme-stats.vercel.app/api?username=Salvatore-droid&theme=blue-green&show_icons=true&hide_border=true&count_private=false) 
+
+
 My journey began with Python scripting, and over time, I’ve expanded my expertise to full-stack development, gaining proficiency in multiple programming languages and frameworks, including Ruby, Go, JavaScript, Python, and PHP.
 
 Currently, I’m diving into the exciting world of Artificial Intelligence and Machine Learning, aiming to build intelligent systems that solve real-world problems. I’m also enhancing my skills in FastAPI for building robust APIs and Tailwind CSS for modern, responsive web design.
