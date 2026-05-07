@@ -56,8 +56,5 @@ Currently, I’m diving into the exciting world of Artificial Intelligence and M
 |:---:|:---:|
 | <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /><br>VS Code</a> | <a href="https://www.sublimetext.com/index2"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /><br>Sublime Text</a> |
 
-## 🧰 Tools & Editors
-<p align="center">
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://www.sublimetext.com/index2"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
 </p>
                     
